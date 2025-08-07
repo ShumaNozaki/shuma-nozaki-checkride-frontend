@@ -20,7 +20,7 @@ spec:
       schedulerName: default-scheduler
       containers:
       - name: shuma-nozaki-checkride
-  
+
         image: shuma-nozaki-checkride
     
         ports:
